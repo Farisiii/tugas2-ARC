@@ -94,6 +94,6 @@ a {
   text-decoration: none;
 }
 
-a, a: active, a: focus, a: hover{
-  outline: none;
+*{
+  -webkit-tap-highlight-color: transparent;
 }
